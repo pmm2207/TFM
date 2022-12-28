@@ -1,7 +1,7 @@
 # TFM : Modelos de predicción de sequías con redes neuronales en las cuencas hidrográficas de Andalucía
 ***
 
-Este repositorio contiene el código utilizado en el trabajo final de master de ciencia de datos de la Universidad Oberta de Catalunya.
+Este repositorio contiene el código utilizado en el trabajo final de master de ciencia de datos de la Universitat Oberta de Catalunya.
 
 #  AUTOR:
 Pablo Moreno Martínez
